@@ -1,5 +1,8 @@
+---
 layout: post
-title: First Jekyll Blog aaa!
+title: TRADE PLAN T11/2021
+published: true
+---
 <center><h1>
     TRADE PLAN T11/2021
     </h1> </center>
@@ -8,7 +11,7 @@ title: First Jekyll Blog aaa!
 
 ## Monthly overview
 
-### 💡 **Overview** 
+### 💡 **Overview**
 
 ### 📆 **Sự kiện**
 
@@ -29,11 +32,11 @@ title: First Jekyll Blog aaa!
 
 ## W3: 15/11 - 21/11/2021
 
-### 💡 **Overview** 
+### 💡 **Overview**
 
-​	**✻ Thế giới** 
+​	**✻ Thế giới**
 
-​	**✻ Việt Nam** 
+​	**✻ Việt Nam**
 
 ### 📆 **Sự kiện**
 
